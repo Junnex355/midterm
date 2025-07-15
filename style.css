@@ -1,0 +1,861 @@
+body{
+    background:rgb(255, 255, 255);
+    left:35px;
+}
+.head{
+    position: relative;
+    background-color: #d61120;
+    top: 8px;
+    height: 49px;
+    width: 1512%;   
+    right: 8px;
+}
+
+.globe{
+    position: relative;
+    left: 100px;
+    top: 14px;
+    width:24px;
+}
+
+.com{
+    position: relative;
+    display: inline;
+    font-family: inter;
+    font-weight: 500;
+    color: white;
+    left: 102px;
+    top: 8px;
+}
+.follow{
+    position: relative;
+    display: inline;
+    color: white;
+    left: 1250px;
+    bottom: 27px;
+}
+
+.header{
+    position:relative;
+    left: 1350px;
+    bottom:45px;
+}
+
+.header>img{
+    position:relative;
+    display: inline;
+    padding-left: 5px;
+}
+
+.netband{
+    position:relative;
+    display: inline;
+    color:#D61120;
+    font-family: Inter;
+    font-size: 31px;
+    font-weight: 700;
+    bottom: 10px;
+    left: 90px;
+}
+
+.headers{
+    position: relative;
+    left:300px;
+    bottom: 40px;
+}
+
+.headers>p{
+    display: inline;
+    position: relative;
+    font-family:Inter;
+    font-size: 18px;
+    color:black;
+    padding-left: 40px;
+}
+
+.heads{
+    position:relative;
+    display:inline;
+    left: 1220px;
+    bottom: 75px;
+}
+
+.heads> img{
+    position:relative;
+    display: inline;
+    padding-left: 25px;
+    width:35px;
+}
+
+.people{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    bottom: 55px;
+    right:8px;
+}
+.journey{
+    position: relative;
+    font-family: Inter;
+    font-weight: 700;
+    font-size:100px;
+    bottom: 875px;
+    left: 100px;
+    color:white;
+}
+
+.fast{
+    position: relative;
+    font-family: Inter;
+    font-weight: 700;
+    font-size:100px;
+    bottom:965px;
+    left: 100px;
+    color:white;
+}
+
+.fastspeed{
+    position: relative;
+    font-family: Inter;
+    font-weight: 200;
+    font-size:34px;
+    bottom: 1055px;
+    left: 105px;
+    color:white;
+}
+
+.contracts{
+    position: relative;
+    font-family: Inter;
+    font-weight: 200;
+    font-size:38px;
+    bottom: 1095px;
+    left: 100px;
+    color:white;
+}
+
+.P{
+    position: relative;
+    display:inline;
+    top:10px;
+}
+.peso{
+    position: relative;
+    font-family: Inter;
+    font-weight: 900;
+    font-size:64px;
+    bottom: 1145px;
+    color: #D61120;
+    letter-spacing: 5px;
+    left: 100px;
+}
+
+.month{
+    position: relative;
+    display: inline;
+    font-family: Inter;
+    font-weight: 900;
+    font-size:25px;
+    bottom: 1255px;
+    color: white;
+    left: 320px;
+}
+
+.started{
+    position: relative;
+    background:#D61120;
+    font-family: Inter;
+    font-weight: 900;
+    font-size:20px;
+    color:white;
+    padding:15px;
+    padding-left:45px;
+    padding-right:45px;
+    width:120px;
+    margin-left:10px;
+    bottom: 1175px;
+    left:100px;
+    border-radius:7px;
+}
+
+.service{
+    position:relative;
+    display:inline;
+    color:#F4222B;
+    font-family: Inter;
+    font-weight: 900;
+    font-size:20px;
+    text-decoration: underline;
+    bottom: 935px;
+    left:690px;
+
+}
+
+.sport>p{
+    position:relative;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.sports{
+    position:relative;
+    display:inline;
+    bottom: 930px;
+    left:610px;
+    font-family: inter;
+}
+
+.show{ 
+    position:relative;
+    display:inline;
+    bottom: 880px;
+    left:260px;
+    font-family: inter;
+    
+}
+
+
+.image{
+    position: relative;
+    display:inline;
+    bottom: 860px;
+}
+
+.image>img{
+    position: relative;
+    display:inline;
+    padding-right: 200px;
+    box-shadow: 5px 5px 20px 5px #00000040;
+    left: 108px;
+    width: 75px;
+    border-radius: 10px;
+    background-color: white;
+    padding-bottom: 215px;
+    padding-left:25px;
+    padding-top:42px;
+}
+
+
+.image1>img{
+    position: relative;
+    display:inline;
+    padding-right: 200px;
+    left: 420px;
+    bottom: 1196px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px 5px #00000040;
+    background-color: #D61120;
+    padding-bottom: 220px;
+    padding-left:25px;
+    padding-top:40px;
+}
+.net2{
+    position: relative;
+    display:inline;
+    bottom:1292px;
+    border-radius: 10px;
+    background-color: rgb(255, 5, 5);
+    padding-bottom: 100px;
+}
+
+.image2{
+    position: relative;
+    display:inline;
+    bottom:1533px;
+
+}
+.image2>img{
+    position: relative;
+    display:inline;
+    padding-right: 200px;
+    left: 754px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px 5px #00000040;
+    background-color: #ffffff;
+    padding-bottom: 200px;
+    padding-left:25px;
+    padding-top:35px;
+    margin-right:9px;
+}
+
+.label>p{
+    display: inline;
+    position: relative;
+    font-weight: 800;
+    font-family:Inter;
+    font-size: 18px;
+    bottom: 1720px;
+    width:100%;
+    margin-right:99px;
+    margin-left: 130px;
+}
+
+.label1>p{
+    display: inline;
+    position: relative;
+    font-weight: 800;
+    font-family:Inter;
+    font-size: 18px;
+    color:black;
+    bottom: 1740px;
+    left:670px;
+    width:100%;
+    margin-right: 125px;
+    margin-left: 110px;
+}
+
+.texts{
+    display: inline;
+    position: relative;
+    font-family:Inter;
+    font-size: 18px;
+    bottom: 1700px;
+    width:20px;
+    right: 20px;
+    margin-left: 149px;
+}
+
+.wif{
+    position:relative;
+    color:white; 
+    display: inline;
+    font-family:Inter;
+    font-size: 18px;
+    bottom: 1700px;
+    width:20px;
+    right: 20px;
+    margin-left: 120px;
+}
+
+.texts1{
+   position:relative;
+    color:rgb(0, 0, 0); 
+    display: inline;
+    font-family:Inter;
+    font-size: 18px;
+    bottom: 1700px;
+    width:20px;
+    right: 20px;
+    margin-left: 120px;
+}
+
+.texts2{
+   position:relative;
+    color:rgb(0, 0, 0); 
+    display: inline;
+    font-family:Inter;
+    font-size: 18px;
+    bottom: 1700px;
+    width:20px;
+    right: 20px;
+    margin-left: 120px;
+}
+
+.wifi{
+    position:relative;
+    color:white; 
+    display: inline;
+    font-family:Inter;
+    font-size: 18px;
+    bottom: 1750px;
+    width:20px;
+    margin-left: 120px;
+}
+
+.wifs1{
+    position:relative;
+    display: inline;
+    font-family:Inter;
+    font-size: 18px;
+    bottom: 1697px;
+    width:20px;
+    right:32px;
+}
+.wifs{
+    position:relative;
+    color:rgb(255, 255, 255); 
+    display: inline;
+    font-family:Inter;
+    font-size: 18px;
+    bottom: 1697px;
+    width:20px;
+    left: 457px;
+}
+
+.wifs2{
+    position:relative;
+    display: inline;
+    font-family:Inter;
+    font-size: 18px;
+    bottom: 1697px;
+    width:20px;
+    left: 463px;
+}
+
+.wifs3{
+    position:relative;
+    display: inline;
+    font-family:Inter;
+    font-size: 18px;
+    bottom: 1697px;
+    width:20px;
+    left: 628px;
+}
+
+.border{
+    position:relative;
+    display:inline-block;
+    left: 175px;
+    width: 395px;
+    height: 530px;
+    bottom: 1520px;
+    border-style: solid;
+    border: 3px solid rgba(212, 17, 26, 1)
+}
+
+.fam{
+    position:relative;
+    display:inlinel;
+    width: 420px;
+    border-radius: 5px;
+    left: 108px;
+    bottom:2110px;
+}
+
+.tvs{
+    position:relative;
+    display:inlinel;
+    width: 224px;
+    border-radius: 5px;
+    bottom:2014px;
+}
+
+.stars{
+    position:relative;
+    left: 45px;
+    width: 220px;
+    padding:20px;
+    height: 130px;
+    bottom: 2620px;
+    background-color: rgba(212, 17, 26, 1)
+}
+.starss
+{
+    position: relative;
+    bottom: 250px;
+}
+
+.t25{
+    position:relative;
+    color: white;
+    width: 200px;
+    height:51px;
+    bottom: 45px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 55px;
+    letter-spacing: 2px;
+}
+.years
+{
+    position: relative;
+    bottom: 90px;
+    left:0px;
+    font-family: inter;
+    width: 100px;
+    color: white;
+    text-decoration: underline;
+    display: inline;
+    font-size: px;
+    font-weight: 400;
+    
+}
+
+.aboutour
+{
+    position: relative;
+    font-size: 20px;
+    bottom: 2841px;
+    left:715px;
+    font-weight: 900;
+    font-family: inter;
+    text-decoration: underline;
+color: red;
+}
+.we{
+    position: relative;
+    bottom: 2880px;
+    left:715px;
+    width:500px;
+    font-weight: 700;
+    font-family: inter;
+    color: #595959;
+}
+.we2
+{
+    position: relative;
+    font-size: 45px;
+    bottom: 2855px;
+    left:715px;
+    width:691px;
+    font-weight: 700;
+    font-family: inter;   
+}
+.for
+{
+    position: relative;
+    bottom: 2841px;
+    left:715px;
+    font-weight: 700;
+    font-family: inter;
+    height:51px;
+}
+.hd
+{
+    position: relative;
+    bottom: 2885px;
+    left:715px;
+}
+.lock
+{
+    position: relative;
+    bottom: 2885px;
+    left:1111px;
+}
+.K
+{
+    position: relative;
+    bottom: 2899px;
+    left:715px;
+    font-family: inter;
+
+}
+.reception
+{
+    position: relative;
+    bottom: 2899px;
+    left:715px;
+    font-family: inter;  
+    width: 320px;
+    
+}
+.full
+{
+    position: relative;
+    bottom: 3030px;
+    left:1111px;
+    font-family: inter; 
+}
+.sec
+{
+    position: relative;
+    bottom: 3030px;
+    left:1111px;
+    font-family: inter; 
+    width: 320px;
+}
+.check1
+{
+    position: relative;
+    bottom: 3015px;
+    left:715px;
+    width: 25px;
+    height: 25px;
+}
+.check2
+{
+    position: relative;
+    bottom: 2985px;
+    left:686px;
+}
+.check3
+{
+    position: relative;
+    bottom: 2955px;
+    left:657px;
+}
+.exp
+{
+    position: relative;
+    bottom: 3065px;
+    left:745px; 
+    font-family: inter;  
+    font-size: 20px;
+}
+.rem
+{
+    position: relative;
+    bottom: 3078px;
+    left:745px; 
+    font-family: inter;  
+    font-size: 20px;
+}
+.qui
+{
+    position: relative;
+    bottom: 3091px;
+    left:745px; 
+    font-family: inter;  
+    font-size: 20px;
+}
+.sir
+{
+    position: relative;
+    bottom: 3091px;
+    left:480px; 
+
+}
+
+.man{
+    position: relative;
+    bottom: 3091px;
+    left:595px; 
+}
+
+.cam{
+    position: relative;
+    bottom: 3079px;
+    left:722px; 
+}
+
+.stud{
+    position: relative;
+    bottom: 3091px;
+    left:850px; 
+}
+.bottom1{
+    position:relative;
+    background-color:#E9E9F1;
+    height:923px;
+    width: 1512px;
+    bottom: 3091px;
+
+}
+.girl
+{
+    position: relative;
+    left: 630px;
+    top: 61px;
+}
+.rec1
+{
+    position: relative;
+    right: 762px;
+    bottom: 290px;
+}
+.choose
+{
+    position: relative;
+    left: 103px;
+    bottom: 3920px;  
+    font-size: 20px;
+    font-family: inter;
+    font-weight: 700;
+    color: red;  
+    text-decoration: underline;
+}
+.choose1
+{
+    position: relative;
+    left: 103px;
+    bottom: 3920px;  
+    font-size: 40px;
+    font-family: inter;
+    font-weight: 700; 
+    width: 705px; 
+}
+.mb
+{
+    position: relative;
+    left: 103px;
+    bottom: 3920px;
+    
+}
+
+.mb2
+{position: relative;
+    left: 30px;
+}
+.mb3
+{position: relative;
+    left: 60px;
+}
+
+.sign
+{
+    position: relative;
+    left: 135px;
+    bottom: 3822px;
+    font-size: 25px; 
+    font-family: inter; 
+    color: #2a2929;
+   
+}
+
+.eight
+{
+    position: relative;
+    left: 150px;
+    bottom: 4000px;
+    font-size: 90px; 
+    font-family: inter;  
+    color: red;
+    font-weight: 500;
+}
+.month
+{
+    position: relative;
+    left: 311px;
+    bottom: 4137px;
+    font-size: 20px; 
+    font-family: inter; 
+    color: rgb(53, 51, 51);
+}
+.three
+{
+    position: relative;
+    left: 450px;
+    bottom: 4313px;
+    font-size: 90px; 
+    font-family: inter;  
+    font-weight: 500;
+    font-size: 20;
+}
+
+.sign2
+{
+    position: relative;
+    left: 430px;
+    bottom: 4909px;
+    font-size: 25px; 
+    font-family: inter; 
+    color: #2a2929;
+}
+.fee
+{ position: relative;
+    left: 610px;
+    bottom: 4959px;
+    font-size: 20px; 
+    font-family: inter; 
+    color: #2a2929;
+    font-weight: 800;
+}
+    
+.footer{
+    background-color: #D61120;
+    width: 1530px;
+    height:49px;
+    position:relative;
+    bottom: 4422px;
+    border-style: none;
+    right: 8px;
+}
+
+.footer > p{
+    font-family: Inter;
+    color: white;
+    position: relative;
+    display: inline;
+}
+
+.globe2{
+    position: relative;
+    left: 120px;
+    top: 15px;
+}
+
+.netband2{
+    position: relative;
+    left: 125px;
+    top: 10px;
+}
+
+.follow2{
+    position: relative;
+    top: 10px;
+    left: 1050px;
+}
+
+.fb2{
+    position: relative;
+    left: 1060px;
+    top: 13px;
+}
+
+.twitter2{
+    position: relative;
+    left: 1060px;
+    top: 13px;
+}
+
+.ig2{
+    position: relative;
+    left: 1065px;
+    top: 13px;
+}
+
+.wrapper3{
+    background-color: white;
+}
+
+.infos > p{
+    font-family: Inter;
+    position: relative;
+    font-size: 25px;
+    color: black;
+    font-weight: 300;
+    bottom: 4050px;
+}
+
+.che1{
+    position: relative;
+    bottom: 4490px;
+    left: 120px;
+}
+
+.che2{
+    position: relative;
+    left: 120px;
+    bottom: 4545px;
+}
+
+.che3{
+    position: relative;
+    bottom: 350px;
+    left: 120px;
+    bottom: 4590px;
+}
+
+.exp1{
+    position: relative;
+    bottom: 4545px;
+    left: 155px;
+    font-size: 24px;
+    font-family: inter;
+}
+
+.remark1{
+    position: relative;
+    bottom: 4601px;
+    left: 155px;
+    font-size: 24px;
+    font-family: inter;
+}
+
+.qui1{
+    position: relative;
+    bottom: 4244px;
+    left: 155px;
+    font-size: 24px;
+    font-family: inter;
+     
+}
+
+.kokoy{
+    position: relative;
+    font-size: 35px;
+    font-weight: 400;
+    bottom: 4220px;
+    text-decoration: underline;
+    left:120px;
+}
